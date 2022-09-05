@@ -3,6 +3,7 @@
 I'm Ivanna
 
 - 🔭 I’m currently working on Data & Analytics for Product & MKT teams
+- 📚 I`ve studied Sociology (UBA) and MBT (Udesa).
 - 🌱 I’m currently learning fullstack development
 
 ### 📫 How to reach me: 
