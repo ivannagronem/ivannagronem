@@ -4,7 +4,7 @@ I'm Ivanna
 
 - 🔭 I’m currently working on Data & Analytics for Product & MKT teams
 - 📚 I’ve studied Sociology (UBA) and MBT (Udesa).
-- 🌱 I’m currently learning fullstack development
+- 🌱 I’m currently learning fullstack & game development
 
 ### 📫 How to reach me: 
 - <a href= "https://www.linkedin.com/in/ivannagrone/">
